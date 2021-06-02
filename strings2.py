@@ -28,5 +28,5 @@ print(parrot[10:1])     # because ending index is before starting index, an empt
 
 # slicing with step
 
-dog = "Pepsi is good"
-print(dog[2:-2:2]) # pii o
+dog = "Pepsi is a good dog"
+print(dog[2:-2:2]) # pii  odd
