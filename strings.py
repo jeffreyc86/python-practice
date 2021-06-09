@@ -9,3 +9,11 @@ name = input("Please enter your name ")
 
 # notes are written with #
 print(greeting + " " + name)
+
+# using f strings to string interpolate - simply put an f before the string that has interpolation
+name = "Jeffrey"
+age = 29
+print(name + f" is {age} years old")
+# Jeffrey is 29 years old
+
+print(f"Pi is approximately {22/7:3.8f}")
