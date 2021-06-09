@@ -18,6 +18,7 @@ for i in range(0, len(dog)):
 print(dog[-2])  # returns s
 
 # slicing
+# slicing goes up to but not including the second value
 print(parrot[0:7]) # Norwegi
 
 print(dog[1:]) # epsi
